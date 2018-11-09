@@ -1,0 +1,9 @@
+.container {
+  background-color: #fff;
+  color: red;
+  font-size: 16px;
+}
+span {
+  font-size: 12px;
+  color: green;
+}
